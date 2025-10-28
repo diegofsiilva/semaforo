@@ -1,3 +1,6 @@
+## Documentação
+[Video do semáforo](https://youtube.com/shorts/5CbLv7GDrkU?si=F6yPRlYkCbn2Y-0B)
+
 ## Avaliação em pares
 
 ### Tabela de Avaliação entre Pares
