@@ -1,6 +1,21 @@
 ## Documentação
 [Video do semáforo](https://youtube.com/shorts/5CbLv7GDrkU?si=F6yPRlYkCbn2Y-0B)
 
+Componentes
+- 1 Arduino Uno
+- 1 LED vermelho
+- 1 LED verde
+- 1 LED amarelo
+- 3 resistores de 330 ohms
+- Jumpers
+- Protoboard
+
+Peguei o LED vermelho e conectei o cabo macho-fêmea no resistor ao pino digital 12 do Arduino. 
+O terminal negativo foi ligado atráves de um jumper ao GND.
+Fiz o mesmo com o LED verde, conectando o positivo ao pino 13, usando um resistor no meio do caminho e o negativo ao GND.
+Por fim, conectei o LED amarelo ao pino 11, também com resistor no positivo e o negativo indo para o GND.
+
+
 ## Avaliação em pares
 
 ### Tabela de Avaliação entre Pares
